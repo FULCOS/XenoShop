@@ -1,7 +1,7 @@
 const fs = require('fs');
 const Discord = require('discord.js');
-const IPCClient = require('.586911197979344903/client');
-const { DiscordToken } = require('.NTg2OTExMTk3OTc5MzQ0OTAz.XQvbJQ.jm-VG6jRHMGspe6g1vzgWSP1RRc/tokens');
+const IPCClient = require('586911197979344903');
+const { DiscordToken } = require('NTg2OTExMTk3OTc5MzQ0OTAz.XQvbJQ.jm-VG6jRHMGspe6g1vzgWSP1RRc');
 const discordDb = require('./discord_db');
 
 const client = new Discord.Client({
