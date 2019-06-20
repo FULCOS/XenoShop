@@ -1,6 +1,6 @@
 const fs = require('fs');
 const Discord = require('discord.js');
-const client = new Discord.Client();
+const client = new Discord.Client(586911197979344903);
 const { DiscordToken } = require('NTg2OTExMTk3OTc5MzQ0OTAz.XQvbJQ.jm-VG6jRHMGspe6g1vzgWSP1RRc');
 
 var subbedChannels = [];
@@ -27,4 +27,4 @@ client.on('ready', () => {
     });
 });
 
-client.login(DiscordToken);
+client.login(NTg2OTExMTk3OTc5MzQ0OTAz.XQvbJQ.jm-VG6jRHMGspe6g1vzgWSP1RRc);
