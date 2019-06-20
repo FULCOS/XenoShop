@@ -1,7 +1,7 @@
 const fs = require('fs');
 const Discord = require('discord.js');
 const client = new Discord.Client();
-const { DiscordToken } = require('./tokens');
+const { DiscordToken } = require('NTg2OTExMTk3OTc5MzQ0OTAz.XQvbJQ.jm-VG6jRHMGspe6g1vzgWSP1RRc');
 
 var subbedChannels = [];
 
